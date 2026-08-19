@@ -1,0 +1,28 @@
+# Android
+.gradle/
+build/
+*/build/
+local.properties
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+*.iml
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Database
+*.db
+*.sqlite
+
+# Local Oracle test files
+backend/test_oracle.txt
